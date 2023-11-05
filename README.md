@@ -3,11 +3,11 @@ Repository for scripts utilized in the manuscript
 
 ## Structure of analyses
 
-- *Feature engineering*:
+### Feature engineering:
 - All taxonomy levels (phylum, class, order, family, and genus) in raw counts, relative abundance, and centered-log ratio (CLR) were used for the model
 - 22 alpha-diversity indexes from the default of the microbiome package were also used in the model
 
-- *Ensemble method*:
+### Ensemble method:
 - Method performed to identify microbes significant across several differential abundance analysis (DAA) tests, including linear regression (LR) and machine learning (ML)
 - Results are a summary of variables significant in:
 - ALDEx2
