@@ -1,3 +1,5 @@
+# These steps are explained in detail in Lahti et al. (2023): 
+# https://microbiome.github.io/OMA/differential-abundance.html
 # Replace target with your variable of interest
 # tse is a treesummarizedexperiment table - some tests works with that best
 # ps is phyloseq
