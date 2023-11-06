@@ -1,4 +1,4 @@
-name: jupyter
+name: rumen-feed-efficiency
 channels:
   - defaults
   - conda-forge
